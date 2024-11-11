@@ -2,27 +2,26 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://th.bing.com/th/id/OIP.IV9gltTWHTVtnezyCVXjwAHaJ4?rs=1&pid=ImgDetMain"  />
-</div>
-
 ###
 
 <h2 align="left">Sobre mi!</h2>
 
 ###
 
-<h6 align="left">Soy estudiante de técnico en informática, actualmente en 5to año y estudiante de Ingenieria Informatica en la UBA. Estoy expandiendo mis conocimientos sobre Frontend y Backend. Adoro la especialidad y los proyectos inovadores.</h6>
+<h3 align="left">Soy estudiante de técnico en informática, actualmente en 5to año y estudiante de Ingenieria Informatica en la UBA. Estoy expandiendo mis conocimientos sobre Frontend y Backend. Adoro la especialidad y los proyectos inovadores.</h3>
 
 ###
 
-<br clear="both">
-
-<h5 align="left">Ahora estoy aprendiendo:<br>C#<br>Mysql<br>Git<br>Me encanta ayudar a personas<br>Por fuera, adoro el futbol, la musica, jugar videojuegos y leer libros.<br>Para contactarme: @SirFrancis-2007<br>o franciscoagustingarciagarcia@gmail.com!</h5>
+<h3 align="left">Ahora estoy aprendiendo:<br>
+C#<br>
+Mysql<br>
+Git<br>
+Me encanta ayudar a personas<br>Por fuera, adoro el futbol, la musica, jugar videojuegos y leer libros.<br>Para contactarme: @SirFrancis-2007
+<br>o franciscoagustingarciagarcia@gmail.com!</h3>
 
 ###
 
-<h3 align="left">Contacto!</h3>
+<h1 align="left">Contacto!</h1>
 
 ###
 
@@ -34,7 +33,7 @@
 
 ###
 
-<h2 align="left">Mis habilidades</h2>
+<h1 align="left">Mis habilidades</h1>
 
 ###
 
