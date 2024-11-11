@@ -12,12 +12,12 @@
 
 ###
 
-<h3 align="left">Ahora estoy aprendiendo:<br>
-C#<br>
-Mysql<br>
-Git<br>
-Me encanta ayudar a personas<br>Por fuera, adoro el futbol, la musica, jugar videojuegos y leer libros.<br>Para contactarme: @SirFrancis-2007
-<br>o franciscoagustingarciagarcia@gmail.com!</h3>
+Ahora estoy aprendiendo:
+- C#
+- MysqL
+- Git
+- Me encanta ayudar a personas
+- Por fuera, adoro el futbol, la musica, jugar videojuegos y leer libros. Para contactarme: @SirFrancis-2007 o franciscoagustingarciagarcia@gmail.com!
 
 ###
 
